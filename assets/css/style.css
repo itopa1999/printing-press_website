@@ -765,7 +765,7 @@ a:hover {
 }
 
 .navbar-brand{
-  font-size: large;
+  font-size: small;
 }
 
 .navbar-default .dropdown .dropdown-menu {
@@ -1029,6 +1029,7 @@ a:hover {
   position: absolute;
 }
 
+
 .intro .intro-body {
   padding-left: 1rem;
 }
@@ -1077,13 +1078,13 @@ a:hover {
 .intro .intro-title {
   color: #ffffff;
   font-weight: 700;
-  font-size: 0.8rem;
+  font-size: 2.8rem;
+  text-transform: uppercase;
 }
 
 @media (min-width: 576px) {
   .intro .intro-title {
-    font-size: 0.9rem;
-    margin-bottom: 1rem;
+    font-size: 3.5rem;
   }
 }
 
